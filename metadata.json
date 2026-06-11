@@ -1,0 +1,10 @@
+{
+  "name": "Route Tracker & Delivery Logger",
+  "description": "A personalized route tracker that records your delivery path and saves it by store name for future playback.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
